@@ -32,7 +32,7 @@ Results:
 If you ever wish to fork and change this bot, simply use this command:
 
 ```
-$git clone #insert the link to repository
+$git clone https://github.com/LookInFuture/Find-a-hotel-telegram-bot.git
 ```
 In order to start using it you have to have a telegram bot token. 
 Use this step-by-step write up to get it: 
@@ -42,7 +42,7 @@ You as well need to get an API token for hotels from [Rapidapi][2].
 
 All needed requirements to install you will find here in [requirements](/requirements.txt)
 ## Gratitude
-With the deep gratitude thanks to [Skillbox](skillbox.ru) team for providing materials
+With the deep gratitude thanks to [Skillbox](https://skillbox.ru) team for providing materials
 and data to start the journey. Separately to supervisors who helped a lot to clarify 
 all questions. 
 
