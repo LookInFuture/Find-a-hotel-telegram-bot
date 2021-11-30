@@ -1,0 +1,11 @@
+# Default ignored files
+/shelf/
+/venv
+/.gradle
+*__pycache__
+/.idea
+.idea
+.env
+Дипломная работа ТЗ.pdf
+/json_files
+json_files/test.py
